@@ -42,4 +42,4 @@ I'm a Security Operations Specialist based in the Bronx, NY, working toward a SO
 
 ---
 
-Based in the Bronx, NY -- open to SOC Analyst opportunities
+
