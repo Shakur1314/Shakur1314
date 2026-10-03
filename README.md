@@ -36,9 +36,9 @@ I'm a Security Operations Specialist based in the Bronx, NY, working toward a SO
 
 ## Currently
 
-- Studying for CompTIA CySA+
+
 - Building out my SOC analyst portfolio on GitHub
-- Expanding into Python scripting for security automation
+- Expanding into Python/C++ scripting for security automation
 
 ---
 
