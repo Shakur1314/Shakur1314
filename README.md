@@ -9,7 +9,7 @@ I'm a Security Operations Specialist based in the Bronx, NY, working toward a SO
 - Cisco Linux Unhatched
 - CompTIA Network+
 - CompTIA Security+ (SY0-701)
-- CompTIA CySA+ (in progress)
+- CompTIA CySA+ 
 
 ---
 
